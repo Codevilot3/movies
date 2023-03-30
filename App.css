@@ -1,0 +1,92 @@
+.full{
+      position: relative;
+        width: 1920px;
+        height: 644px;
+        background: #0D111C;
+}
+.half{
+    position: absolute;
+      width: 753px;
+      height: 468px;
+      left: 358px;
+      top: 135px;
+      background: #FFFFFF;
+      border-radius: 16px;
+}
+.title{
+  position: absolute;
+    width: 130px;
+    height: 24px;
+    left: 41px;
+    top: 0px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #28261F;
+  }
+
+.texts{
+              position: absolute;
+                width: 215px;
+                height: 5px;
+                left: 46px;
+                top: 97px;
+                font-family: 'Calibri';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 20px;
+                display: flex;
+                align-items: center;
+                text-transform: capitalize;
+                color: #505050;
+}
+.input1{position: absolute;
+  width: 618px;
+  height: 64px;
+  left: 46px;
+  top: 148px;
+  background: #FFFFFF;
+  border-radius: 16px;
+}
+
+.input2{
+          position: absolute;
+            width: 618px;
+            height: 66px;
+            left: 44px;
+            top: 253px;
+            background: #FFFFFF;
+            border-radius: 16px;
+}
+.input3{
+          position: absolute;
+            width: 616px;
+            height: 64px;
+            left: 47px;
+            top: 354px;
+            background: #FF7D65;
+            border-radius: 16px;
+        
+}
+.click{position: absolute;
+  width: 88px;
+  height: 44px;
+  left: 286px;
+  top: 333px;
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  font-feature-settings: "smcp";
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
